@@ -5,6 +5,6 @@ jxxghp/moviepilot:1.9.10-1
 postgres:16
 joplin/server:2.14.2-beta
 chishin/nginx-proxy-manager-zh:2
-zoeyvid/nginx-proxy-manager:caddy
+zoeyvid/nginx-proxy-manager:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
