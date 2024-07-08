@@ -3,5 +3,6 @@ xhofe/alist:latest
 jxxghp/moviepilot:1.9.10-1
 cloudflare/cloudflared:1548-628176a
 zoeyvid/nginx-proxy-manager:latest
+privoce/vocechat-server:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
