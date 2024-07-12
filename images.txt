@@ -4,5 +4,7 @@ jxxghp/moviepilot:1.9.10-1
 cloudflare/cloudflared:1548-628176a
 zoeyvid/nginx-proxy-manager:latest
 okhanyu/minichat:latest
+mysql:5.7.44-oraclelinux7
+mysql:8.4.1-oraclelinux9
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
