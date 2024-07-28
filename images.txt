@@ -1,5 +1,5 @@
 #支持私库
-jxxghp/moviepilot:1.9.11
-idootop/mi-gpt:4.1.0
+jxxghp/moviepilot:1.9.12
+privoce/vocechat-server:v0.3.50-arm64
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+# --platform=linux/arm64 xiaoyaliu/alist
