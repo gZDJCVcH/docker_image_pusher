@@ -1,3 +1,4 @@
+nginx
 #支持私库
 jxxghp/moviepilot:1.9.12
 privoce/vocechat-server:v0.3.50-arm64
