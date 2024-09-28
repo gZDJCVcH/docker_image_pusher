@@ -4,5 +4,6 @@ jxxghp/moviepilot:1.9.15
 privoce/vocechat-server:v0.3.50-arm64
 xinsodev/drawdb:latest
 xhofe/alist:v3.37.4
+dr34m/tao-sync:v0.2.3
 #支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
