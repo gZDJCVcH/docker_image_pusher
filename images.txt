@@ -1,6 +1,6 @@
 nginx
 #支持私库
-jxxghp/moviepilot:1.9.15
+jxxghp/moviepilot:1.9.17
 privoce/vocechat-server:v0.3.50-arm64
 xinsodev/drawdb:latest
 xhofe/alist:v3.38.0
