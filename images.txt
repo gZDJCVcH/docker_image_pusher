@@ -3,7 +3,7 @@ nginx
 jxxghp/moviepilot:1.9.17
 privoce/vocechat-server:v0.3.50-arm64
 xinsodev/drawdb:latest
-xhofe/alist:v3.39.4
+xhofe/alist:v3.40.0
 dr34m/tao-sync:v0.2.3
 allanpk716/chinesesubfinder:v0.55.3
 allanpk716/chinesesubfinder:v0.55.3-lite
