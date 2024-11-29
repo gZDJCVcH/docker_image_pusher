@@ -4,7 +4,7 @@ jxxghp/moviepilot:1.9.17
 privoce/vocechat-server:v0.3.50-arm64
 xinsodev/drawdb:latest
 xhofe/alist:v3.40.0
-dr34m/tao-sync:v0.2.3
+dr34m/tao-sync:v0.2.4-dev-build0
 allanpk716/chinesesubfinder:v0.55.3
 allanpk716/chinesesubfinder:v0.55.3-lite
 privoce/vocechat-server:v0.4.0
