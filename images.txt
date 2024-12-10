@@ -8,5 +8,6 @@ dr34m/tao-sync:v0.2.4-dev-build0
 allanpk716/chinesesubfinder:v0.55.3
 allanpk716/chinesesubfinder:v0.55.3-lite
 privoce/vocechat-server:v0.4.0
+paperlessngx/paperless-ngx:2.13.5
 #支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
