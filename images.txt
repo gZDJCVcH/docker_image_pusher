@@ -12,7 +12,7 @@ nginx
 #allanpk716/chinesesubfinder:v0.55.3-lite
 #privoce/vocechat-server:v0.4.0
 #paperlessngx/paperless-ngx:2.13.5
-stirlingtools/stirling-pdf:0.36.4-fat
+--platform=linux/arm64 stirlingtools/stirling-pdf:0.36.4-fat
 
 
 #支持指定架构
