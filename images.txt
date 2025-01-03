@@ -1,8 +1,8 @@
-nginx
+#nginx
 #支持私库
 
 #jxxghp/moviepilot:1.9.17
-#jxxghp/moviepilot-v2:2.1.2
+jxxghp/moviepilot-v2:2.1.7
 
 #privoce/vocechat-server:v0.3.50-arm64
 #xinsodev/drawdb:latest
@@ -12,7 +12,7 @@ nginx
 #allanpk716/chinesesubfinder:v0.55.3-lite
 #privoce/vocechat-server:v0.4.0
 #paperlessngx/paperless-ngx:2.13.5
---platform=linux/arm64 stirlingtools/stirling-pdf:0.36.4-fat
+#--platform=linux/arm64 stirlingtools/stirling-pdf:0.36.4-fat
 
 
 #支持指定架构
