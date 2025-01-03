@@ -7,7 +7,7 @@ jxxghp/moviepilot-v2:2.1.7
 #privoce/vocechat-server:v0.3.50-arm64
 #xinsodev/drawdb:latest
 #xhofe/alist:v3.41.0
-#dr34m/tao-sync:v0.2.4-dev-build0
+#dr34m/tao-sync:v0.2.4
 #allanpk716/chinesesubfinder:v0.55.3
 #allanpk716/chinesesubfinder:v0.55.3-lite
 #privoce/vocechat-server:v0.4.0
