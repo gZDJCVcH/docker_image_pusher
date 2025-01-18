@@ -2,9 +2,9 @@
 #支持私库
 
 #jxxghp/moviepilot:1.9.17
-jxxghp/moviepilot-v2:2.2.1
+jxxghp/moviepilot-v2:2.2.2
 
-cloudnas/clouddrive2:0.8.6
+#cloudnas/clouddrive2:0.8.6
 
 #privoce/vocechat-server:v0.3.50-arm64
 #xinsodev/drawdb:latest
