@@ -2,7 +2,9 @@
 #支持私库
 
 #jxxghp/moviepilot:1.9.17
-jxxghp/moviepilot-v2:2.2.2
+#jxxghp/moviepilot-v2:2.2.2
+
+itefuir/alist-strm:latest
 
 #cloudnas/clouddrive2:0.8.6
 
