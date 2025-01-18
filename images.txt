@@ -4,7 +4,10 @@
 #jxxghp/moviepilot:1.9.17
 #jxxghp/moviepilot-v2:2.2.2
 
-itefuir/alist-strm:latest
+# 生成strm
+#itefuir/alist-strm:latest
+
+jellyfina/embyserver:4.7.14.0
 
 #cloudnas/clouddrive2:0.8.6
 
