@@ -2,12 +2,12 @@
 #支持私库
 
 #jxxghp/moviepilot:1.9.17
-#jxxghp/moviepilot-v2:2.2.2
+jxxghp/moviepilot-v2:2.2.3
 
 # 生成strm
 #itefuir/alist-strm:latest
 
-jellyfina/embyserver:4.7.14.0
+#jellyfina/embyserver:4.7.14.0
 
 #cloudnas/clouddrive2:0.8.6
 
