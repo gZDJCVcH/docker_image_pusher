@@ -2,8 +2,8 @@
 #支持私库
 
 #jxxghp/moviepilot:1.9.17
-#jxxghp/moviepilot-v2:2.2.4-1
-imaliang/cloud-media-sync:0.3.2.1
+jxxghp/moviepilot-v2:2.2.5
+#imaliang/cloud-media-sync:0.3.2.1
 
 # 生成strm
 #itefuir/alist-strm:latest
@@ -14,7 +14,7 @@ imaliang/cloud-media-sync:0.3.2.1
 
 #privoce/vocechat-server:v0.3.50-arm64
 #xinsodev/drawdb:latest
-#xhofe/alist:v3.41.0
+#xhofe/alist:v3.42.0
 #dr34m/tao-sync:v0.2.4
 #allanpk716/chinesesubfinder:v0.55.3
 #allanpk716/chinesesubfinder:v0.55.3-lite
