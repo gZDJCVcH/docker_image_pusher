@@ -10,6 +10,8 @@ jxxghp/moviepilot-v2:2.3.0
 
 #jellyfina/embyserver:4.7.14.0
 
+neosmemo/memos:0.24.0
+
 #cloudnas/clouddrive2:0.8.6
 
 #privoce/vocechat-server:v0.3.50-arm64
