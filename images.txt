@@ -2,7 +2,7 @@
 #支持私库
 
 #jxxghp/moviepilot:1.9.17
-jxxghp/moviepilot-v2:2.3.0
+#jxxghp/moviepilot-v2:2.3.0
 #imaliang/cloud-media-sync:0.3.2.1
 
 # 生成strm
@@ -10,7 +10,9 @@ jxxghp/moviepilot-v2:2.3.0
 
 #jellyfina/embyserver:4.7.14.0
 
-neosmemo/memos:0.24.0
+#neosmemo/memos:0.24.0
+
+amilys/embyserver:4.9.0.37
 
 #cloudnas/clouddrive2:0.8.6
 
