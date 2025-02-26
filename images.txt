@@ -9,7 +9,7 @@
 
 #finab/bark-server:v2.2.0
 
-yantaocheng/emby-nginx:2.4.8
+uwang/115-strm:0.1.2
 
 # 生成strm
 #itefuir/alist-strm:latest
