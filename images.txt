@@ -7,7 +7,9 @@
 
 #jc21/nginx-proxy-manager:2.12.3
 
-finab/bark-server:v2.2.0
+#finab/bark-server:v2.2.0
+
+yantaocheng/emby-nginx:2.4.8
 
 # 生成strm
 #itefuir/alist-strm:latest
