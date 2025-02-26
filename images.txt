@@ -5,7 +5,9 @@
 #jxxghp/moviepilot-v2:2.3.0
 #imaliang/cloud-media-sync:0.3.2.1
 
-jc21/nginx-proxy-manager:2.12.3
+#jc21/nginx-proxy-manager:2.12.3
+
+finab/bark-server:v2.2.0
 
 # 生成strm
 #itefuir/alist-strm:latest
