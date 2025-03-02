@@ -2,14 +2,14 @@
 #支持私库
 
 #jxxghp/moviepilot:1.9.17
-#jxxghp/moviepilot-v2:2.3.0
+jxxghp/moviepilot-v2:2.3.3-1
 #imaliang/cloud-media-sync:0.3.2.1
 
 #jc21/nginx-proxy-manager:2.12.3
 
 #finab/bark-server:v2.2.0
 
-uwang/115-strm:0.1.2
+#uwang/115-strm:0.1.2
 
 # 生成strm
 #itefuir/alist-strm:latest
