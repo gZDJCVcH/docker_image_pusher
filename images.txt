@@ -5,7 +5,6 @@
 #jxxghp/moviepilot-v2:2.3.3-1
 #imaliang/cloud-media-sync:0.3.2.1
 
-jiangrui1994/cloudsaver:0.2.2
 
 #jc21/nginx-proxy-manager:2.12.3
 
@@ -20,7 +19,7 @@ jiangrui1994/cloudsaver:0.2.2
 
 #neosmemo/memos:0.24.0
 
-#amilys/embyserver:4.9.0.37
+amilys/embyserver:4.9.0.40
 
 #cloudnas/clouddrive2:0.8.6
 
