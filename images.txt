@@ -19,7 +19,7 @@ jxxghp/moviepilot-v2:2.3.4
 
 #neosmemo/memos:0.24.0
 
-amilys/embyserver:4.9.0.42
+amilys/embyserver:beta
 
 #cloudnas/clouddrive2:0.8.6
 
