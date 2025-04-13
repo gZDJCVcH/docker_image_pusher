@@ -10,7 +10,9 @@
 #jiangrui1994/cloudsaver:0.4.6
 
 #自动签到
-qdtoday/qd:20250129
+#qdtoday/qd:20250129
+# 没有 OCR 的签到
+#docker pull qdtoday/qd:lite-20250129
 
 #jc21/nginx-proxy-manager:2.12.3
 
