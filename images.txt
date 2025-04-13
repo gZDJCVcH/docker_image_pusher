@@ -7,7 +7,10 @@
 #imaliang/cloud-media-sync:0.3.2.1
 
 # 网盘资源搜索
-jiangrui1994/cloudsaver:0.4.6
+#jiangrui1994/cloudsaver:0.4.6
+
+#自动签到
+qdtoday/qd:20250129
 
 #jc21/nginx-proxy-manager:2.12.3
 
