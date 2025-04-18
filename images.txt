@@ -2,7 +2,7 @@
 #支持私库
 
 #jxxghp/moviepilot:1.9.17
-#jxxghp/moviepilot-v2:2.4.0
+jxxghp/moviepilot-v2:2.4.0
 
 #imaliang/cloud-media-sync:0.3.2.1
 
@@ -14,7 +14,7 @@
 # 没有 OCR 的签到
 #docker pull qdtoday/qd:lite-20250129
 #给 qd 用的 redis
-redis:alpine
+#redis:alpine
 
 #jc21/nginx-proxy-manager:2.12.3
 
