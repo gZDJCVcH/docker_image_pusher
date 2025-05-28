@@ -2,7 +2,7 @@
 #支持私库
 
 #jxxghp/moviepilot:1.9.17
-jxxghp/moviepilot-v2:2.4.5-1
+jxxghp/moviepilot-v2:2.5.0
 
 #imaliang/cloud-media-sync:0.3.2.1
 
@@ -35,7 +35,7 @@ jxxghp/moviepilot-v2:2.4.5-1
 
 #privoce/vocechat-server:v0.3.50-arm64
 #xinsodev/drawdb:latest
-xhofe/alist:v3.44.0
+xhofe/alist:v3.45.0
 #dr34m/tao-sync:v0.2.5
 #allanpk716/chinesesubfinder:v0.55.3
 #allanpk716/chinesesubfinder:v0.55.3-lite
