@@ -35,7 +35,10 @@ jxxghp/moviepilot-v2:2.5.8
 
 #privoce/vocechat-server:v0.3.50-arm64
 #xinsodev/drawdb:latest
-xhofe/alist:v3.45.0
+#xhofe/alist:v3.45.0
+openlistteam/openlist:v4.0.4-aio
+
+
 #dr34m/tao-sync:v0.2.5
 #allanpk716/chinesesubfinder:v0.55.3
 #allanpk716/chinesesubfinder:v0.55.3-lite
