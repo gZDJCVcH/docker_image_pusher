@@ -2,7 +2,7 @@
 #支持私库
 
 
-jxxghp/moviepilot-v2:2.6.6
+jxxghp/moviepilot-v2:2.6.9
 openlistteam/openlist:v4.1.0
 dr34m/tao-sync:v0.3.2
 
