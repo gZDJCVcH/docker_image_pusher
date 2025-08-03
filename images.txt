@@ -1,11 +1,12 @@
 #nginx
 #支持私库
 
+
+jxxghp/moviepilot-v2:2.6.6
+openlistteam/openlist:v4.1.0
+dr34m/tao-sync:v0.3.2
+
 #jxxghp/moviepilot:1.9.17
-jxxghp/moviepilot-v2:2.6.7
-openlistteam/openlist:v4.0.9
-
-
 #imaliang/cloud-media-sync:0.3.2.1
 
 # 网盘资源搜索
@@ -41,7 +42,7 @@ openlistteam/openlist:v4.0.9
 
 
 
-#dr34m/tao-sync:v0.2.5
+
 #allanpk716/chinesesubfinder:v0.55.3
 #allanpk716/chinesesubfinder:v0.55.3-lite
 #privoce/vocechat-server:v0.4.0
