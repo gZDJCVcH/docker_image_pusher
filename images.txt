@@ -2,8 +2,8 @@
 #支持私库
 
 
-jxxghp/moviepilot-v2:2.7.9
-openlistteam/openlist:v4.1.2
+jxxghp/moviepilot-v2:2.8.1-1
+openlistteam/openlist:v4.1.5
 dr34m/tao-sync:v0.3.2
 
 #jxxghp/moviepilot:1.9.17
