@@ -7,6 +7,13 @@ openlistteam/openlist:v4.1.10
 
 dr34m/tao-sync:v0.3.2
 
+
+# 开发用
+--platform=arm64 mysql:8.4.8
+
+
+
+
 #jxxghp/moviepilot:1.9.17
 #imaliang/cloud-media-sync:0.3.2.1
 
