@@ -2,10 +2,10 @@
 #支持私库
 
 
-jxxghp/moviepilot-v2:2.9.11
-openlistteam/openlist:v4.1.10
+# jxxghp/moviepilot-v2:2.9.11
+#openlistteam/openlist:v4.1.10
 
-dr34m/tao-sync:v0.3.2
+#dr34m/tao-sync:v0.3.2
 
 
 # 开发用
