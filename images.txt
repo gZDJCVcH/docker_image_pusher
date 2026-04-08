@@ -5,12 +5,14 @@
 # jxxghp/moviepilot-v2:2.9.21
 #openlistteam/openlist:v4.1.10
 
+iyuucn/iyuuplus:latest
+
 #dr34m/tao-sync:v0.3.2
 
 
 # 开发用
 # --platform=arm64 mysql:8.4.8
---platform=linux/arm64 nginx:stable-alpine
+# --platform=linux/arm64 nginx:stable-alpine
 
 
 
